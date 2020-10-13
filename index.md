@@ -1,96 +1,105 @@
 ---
 layout: default
-title: Home
+title: Framework for Improving Critical Infrastructure Cybersecurity 
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Version 1.1 of this Cybersecurity Framework refines, clarifies, and enhances Version 1.0, which was issued in February 2014. It incorporates comments received on the two drafts of Version 1.1."
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+# Framework for Improving Critical Infrastructure Cybersecurity
+### Version 1. 1
+### National Institute of Standards and Technology
+### April 16, 2018
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+### This publication is available free of charge from: https://doi.org/10.6028/NIST.CSWP.04162018 
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+## Note to Readers on the Update
+Version 1.1 of this Cybersecurity Framework refines, clarifies, and enhances Version 1.0, which was issued in February 2014. It incorporates comments received on the two drafts of Version 1.1.
 
----
+Version 1.1 is intended to be implemented by first-time and current Framework users. Current users should be able to implement Version 1.1 with minimal or no disruption; compatibility with Version 1.0 has been an explicit objective.
 
-## Getting started
+The following table summarizes the changes made between Version 1.0 and Version 1.1.
 
-### Dependencies
+Table NTR- 1 - Summary of changes between Framework Version 1.0 and Version 1.1.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+<table>
+  <tr>
+    <td>
 
-### Quick start: Use as a GitHub Pages remote theme
+    </td>
+    <td>
+  
+    </td>
+    <td>
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+    </td>
+    <td>
 
-### Local installation: Use the gem-based theme
+    </td>
+    <td>
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+    </td>
+    <td>
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight:bold; background-color:#ebebeb">
+      Update
+    </td>
+    <td colspan="6" style="font-weight:bold; background-color:#ebebeb">
+      Description of Update
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Clarified that terms like “compliance” can be confusing and mean something very different to various Framework stakeholders
+    </td>
+    <td colspan="6">
+      Added clarity that the Framework has utility as a structure and language for organizing and expressing compliance with an organization’s own cybersecurity requirements. However, the variety of ways in which the Framework can be used by an organization means that phrases like “compliance with the Framework” can be confusing.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      A new section on self- assessment
+    </td>
+    <td colspan="4">
+      Added Section 4.0 Self-Assessing Cybersecurity Risk with the Framework to explain how the Framework can be used by organizations to understand and assess their cybersecurity risk, including the use of measurements.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Greatly expanded explanation of using Framework for Cyber Supply Chain Risk Management purposes
+    </td>
+    <td colspan="4">
+      An expanded Section 3.3 Communicating Cybersecurity Requirements with Stakeholders helps users better understand Cyber Supply Chain Risk Management (SCRM), while a new Section 3.4 Buying Decisions highlights use of the Framework in understanding risk associated with commercial off-the-shelf products and services. Additional Cyber SCRM criteria were added to the Implementation Tiers. Finally, a Supply Chain Risk Management Category, including multiple Subcategories, has been added to the Framework Core.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Refinements to better account for authentication, authorization, and identity proofing
+    </td>
+    <td colspan="4">
+      The language of the Access Control Category has been refined to better account for authentication, authorization, and identity proofing. This included adding one Subcategory each for Authentication and Identity Proofing. Also, the Category has been renamed to Identity Management and Access Control (PR.AC) to better represent the scope of the Category and corresponding Subcategories.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Better explanation of the relationship between Implementation Tiers and Profiles
+    </td>
+    <td colspan="4">
+      Added language to Section 3.2 Establishing or Improving a Cybersecurity Program on using Framework Tiers in Framework implementation. Added language to Framework Tiers to reflect integration of Framework considerations within organizational risk management programs. The Framework Tier concepts were also refined. Updated Figure 2.0 to include actions from the Framework Tiers.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Consideration of Coordinated Vulnerability Disclosure
+    </td>
+    <td colspan="4">
+      A Subcategory related to the vulnerability disclosure lifecycle was added.
+    </td>
+  </tr>
+</table>
 
-### Configure Just the Docs
+### As with Version 1.0, Version 1.1 users are encouraged to customize the Framework to maximize
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
-
----
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
