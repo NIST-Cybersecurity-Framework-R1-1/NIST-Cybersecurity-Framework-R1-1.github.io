@@ -14,11 +14,11 @@ nav_order: 30
 
 [1.0 Framework Introduction](/docs/1.0-framework-introduction/) 
 
-2.0 Framework Basics 
+[2.0 Framework Basics](/docs/2.0-framework-basics/) 
 
-3.0 How to Use the Framework 
+[3.0 How to Use the Framework](/docs/3.0-how-to-use-the-framework/) 
 
-4.0 Self-Assessing Cybersecurity Risk with the Framework
+[4.0 Self-Assessing Cybersecurity Risk with the Framework](/docs/4.0-self-assessing-cybersecurity-risk-with-the-framework/)
 
 Appendix A: Framework Core 
 
