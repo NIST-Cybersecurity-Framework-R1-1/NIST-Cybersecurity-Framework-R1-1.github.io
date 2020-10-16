@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  . IDENTIFY (ID), Asset Management (ID.AM)
+parent: . IDENTIFY
 nav_order: 1510 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1510
     </td>
   </tr>
   <tr>
-    <td rowspan="6" style="background-color:#2c6fc7">
+    <td rowspan="6" style="vertical-align:top; background-color:#2c6fc7">
 <span style="color:#ffffff">IDENTIFY (ID)</span>
     </td>
-    <td colspan="2" rowspan="6">
+    <td colspan="2" rowspan="6" style="vertical-align:top">
 <span style="font-weight:bold">Asset Management (ID.AM):</span>
 The data, personnel, devices, systems, and facilities that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to organizational objectives and the organization’s risk strategy.
     </td>

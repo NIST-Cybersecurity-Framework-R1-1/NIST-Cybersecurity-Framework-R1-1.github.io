@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . PROTECT (PR), Data Security (PR.DS) 
+parent: . PROTECT
 nav_order: 1630 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1630
     </td>
   </tr>
   <tr>
-    <td rowspan="8" style="background-color:#5d28ad">
+    <td rowspan="8" style="vertical-align:top; background-color:#5d28ad">
 <span style="color:#ffffff">PROTECT (PR)</span>
     </td>
-    <td colspan="2" rowspan="8">
+    <td colspan="2" rowspan="8" style="vertical-align:top;">
 <span style="font-weight:bold">Data Security (PR.DS):</span> Information and records (data) are managed consistent with the organization’s risk strategy to protect the confidentiality, integrity, and availability of information.
     </td>
     <td colspan="2">

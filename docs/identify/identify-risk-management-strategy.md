@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . IDENTIFY (ID), Risk Management Strategy (ID.RM) 
+parent: . IDENTIFY
 nav_order: 1550 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1550
     </td>
   </tr>
   <tr>
-    <td rowspan="3" style="background-color:#2c6fc7">
+    <td rowspan="3" style="vertical-align:top; background-color:#2c6fc7">
 <span style="color:#ffffff">IDENTIFY (ID)</span>
     </td>
-    <td colspan="2" rowspan="3">
+    <td colspan="2" rowspan="3" style="vertical-align:top">
 <span style="font-weight:bold">Risk Management Strategy (ID.RM):</span> The organization’s priorities, constraints, risk tolerances, and assumptions are established and used to support operational risk decisions.
     </td>
     <td colspan="2">

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Appendix A - Framework Core 
-nav_order: 1500
+nav_order: 1400
 ---
 
 ### 4.0 Self-Assessing Cybersecurity Risk with the Framework

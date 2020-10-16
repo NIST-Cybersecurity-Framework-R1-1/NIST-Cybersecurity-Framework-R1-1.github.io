@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . IDENTIFY (ID), Risk Assessment (ID.RA) 
+parent: . IDENTIFY
 nav_order: 1540 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1540
     </td>
   </tr>
   <tr>
-    <td rowspan="6" style="background-color:#2c6fc7">
+    <td rowspan="6" style="vertical-align:top; background-color:#2c6fc7">
 <span style="color:#ffffff">IDENTIFY (ID)</span>
     </td>
-    <td colspan="2" rowspan="6">
+    <td colspan="2" rowspan="6" style="vertical-align:top">
 <span style="font-weight:bold">Risk Assessment (ID.RA):</span> The organization understands the cybersecurity risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals.
     </td>
     <td colspan="2">

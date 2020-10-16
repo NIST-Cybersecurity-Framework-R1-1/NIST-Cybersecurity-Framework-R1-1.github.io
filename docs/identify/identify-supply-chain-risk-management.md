@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . IDENTIFY (ID), Supply Chain Risk Management (ID.SC) 
+parent: . IDENTIFY
 nav_order: 1560 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1560
     </td>
   </tr>
   <tr>
-    <td rowspan="5" style="background-color:#2c6fc7">
+    <td rowspan="5" style="vertical-align:top; background-color:#2c6fc7">
 <span style="color:#ffffff">IDENTIFY (ID)</span>
     </td>
-    <td colspan="2" rowspan="5">
+    <td colspan="2" rowspan="5" style="vertical-align:top">
 <span style="font-weight:bold">Supply Chain Risk Management (ID.SC):</span> The organization’s priorities, constraints, risk tolerances, and assumptions are established and used to support risk decisions associated with managing supply chain risk. The organization has established and implemented the processes to identify, assess and manage supply chain risks.
     </td>
     <td colspan="2">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . PROTECT (PR), Awareness and Training (PR.AT) 
+parent: . PROTECT
 nav_order: 1620 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1620
     </td>
   </tr>
   <tr>
-    <td rowspan="5" style="background-color:#5d28ad">
+    <td rowspan="5" style="vertical-align:top; background-color:#5d28ad">
 <span style="color:#ffffff">PROTECT (PR)</span>
     </td>
-    <td colspan="2" rowspan="5">
+    <td colspan="2" rowspan="5" style="vertical-align:top">
 <span style="font-weight:bold">Awareness and Training (PR.AT):</span> The organization’s personnel and partners are provided cybersecurity awareness education and are trained to perform their cybersecurity-related duties and responsibilities consistent with related policies, procedures, and agreements.
     </td>
     <td colspan="2">

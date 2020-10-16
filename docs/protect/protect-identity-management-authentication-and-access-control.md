@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . PROTECT (PR), Identity Management, Authentication and Access Control (PR.AC) 
+parent: . PROTECT
 nav_order: 1610 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1610
     </td>
   </tr>
   <tr>
-    <td rowspan="7" style="background-color:#5d28ad">
+    <td rowspan="7" style="vertical-align:top; background-color:#5d28ad">
 <span style="color:#ffffff">PROTECT (PR)</span>
     </td>
-    <td colspan="2" rowspan="7">
+    <td colspan="2" rowspan="7" style="vertical-align:top">
 <span style="font-weight:bold">Identity Management, Authentication and Access Control (PR.AC):</span> Access to physical and logical assets and associated facilities is limited to authorized users, processes, and devices, and is managed consistent with the assessed risk of unauthorized access to authorized activities and transactions.
     </td>
     <td colspan="2">

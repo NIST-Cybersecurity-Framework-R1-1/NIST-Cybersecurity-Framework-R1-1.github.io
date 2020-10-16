@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . IDENTIFY (ID), Governance (ID.GV) 
+parent: . IDENTIFY
 nav_order: 1530 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1530
     </td>
   </tr>
   <tr>
-    <td rowspan="4" style="background-color:#2c6fc7">
+    <td rowspan="4" style="vertical-align:top; background-color:#2c6fc7">
 <span style="color:#ffffff">IDENTIFY (ID)</span>
     </td>
-    <td colspan="2" rowspan="4">
+    <td colspan="2" rowspan="4" style="vertical-align:top">
 <span style="font-weight:bold">Governance (ID.GV):</span> The policies, procedures, and processes to manage and monitor the organization’s regulatory, legal, risk, environmental, and operational requirements are understood and inform the management of cybersecurity risk.
     </td>
     <td colspan="2">

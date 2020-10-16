@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . PROTECT (PR), Information Protection Processes and Procedures (PR.IP) 
+parent: . PROTECT
 nav_order: 1640 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1640
     </td>
   </tr>
   <tr>
-    <td rowspan="12" style="background-color:#5d28ad">
+    <td rowspan="12" style="vertical-align:top; background-color:#5d28ad">
 <span style="color:#ffffff">PROTECT (PR)</span>
     </td>
-    <td colspan="2" rowspan="12">
+    <td colspan="2" rowspan="12" style="vertical-align:top">
 <span style="font-weight:bold">Information Protection Processes and Procedures (PR.IP):</span> Security policies (that address purpose, scope, roles, responsibilities, management commitment, and coordination among organizational entities), processes, and procedures are maintained and used to manage protection of information systems and assets.
     </td>
     <td colspan="2">

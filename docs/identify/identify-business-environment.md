@@ -1,6 +1,7 @@
 ---
 layout: default
 title: . IDENTIFY (ID), Business Environment (ID.BE) 
+parent: . IDENTIFY
 nav_order: 1520 
 ---
 
@@ -39,10 +40,10 @@ nav_order: 1520
     </td>
   </tr>
   <tr>
-    <td rowspan="5" style="background-color:#2c6fc7">
+    <td rowspan="5" style="vertical-align:top; background-color:#2c6fc7">
 <span style="color:#ffffff">IDENTIFY (ID)</span>
     </td>
-    <td colspan="2" rowspan="5">
+    <td colspan="2" rowspan="5" style="vertical-align:top">
 <span style="font-weight:bold">Business Environment (ID.BE):</span>
 The organization’s mission, objectives, stakeholders, and activities are understood and prioritized; this information is used to inform cybersecurity roles, responsibilities, and risk management decisions.
     </td>
